@@ -1,2 +1,2 @@
-def str_up(a):
-    return a.upper()
+def str_up(b):
+    return b.upper()
