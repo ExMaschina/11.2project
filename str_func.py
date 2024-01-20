@@ -1,8 +1,8 @@
 def str_up(b):
-    """докстринг на связи"""
+    """докстринг"""
     return b.upper()
 
 def capitalizing(s):
-    """капитализм  на связи"""
+    """на """
     s = s.title
     return (s)
